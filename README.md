@@ -24,15 +24,15 @@
 <a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/hussein7samer">
   <img src="https://img.shields.io/badge/GitHub-1F1147?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square&color=4338CA&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/your-username?label=Stars&style=flat-square&color=A855F7&logo=github" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=hussein7samer&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/hussein7samer?label=Followers&style=flat-square&color=4338CA&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/hussein7samer?label=Stars&style=flat-square&color=A855F7&logo=github" alt="Stars" />
 
 </div>
 
@@ -40,7 +40,7 @@
 
 ## About
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=hussein7samer&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" />
 
 Full-Stack & AI Engineer who builds **complete, production-grade systems** — not isolated features. I take products from the data model and API layer all the way to real-time interfaces and deployment, and I ship them into live use.
 
@@ -120,7 +120,7 @@ A complete point-of-sale and inventory platform with real-time notifications, ba
 | **Performance** | Real-time updates over Socket.io · ZXing barcode scanning · offline-capable PWA |
 | **Security** | RBAC with 5 roles &amp; 21 granular permissions · JWT auth · refresh-token rotation |
 | **Impact** | Production-ready retail system running in the Iraqi market |
-| **Repository** | [`nova-store`](https://github.com/your-username/nova-store) |
+| **Repository** | [`nova-store`](https://github.com/hussein7samer/nova-store) |
 
 Engineered end-to-end with a precision financial layer using `Decimal` types to eliminate floating-point error, a fully permission-driven UI, and a live notification system. Designed to operate reliably in real retail environments.
 
@@ -140,7 +140,7 @@ A pharmacy enterprise resource planning system covering inventory, sales, and op
 | **Performance** | Optimized MySQL schema · server-rendered for speed |
 | **Security** | Role-based access · session hardening · strict input validation |
 | **Impact** | Operational backbone for pharmacy management |
-| **Repository** | [`pharmos`](https://github.com/your-username/pharmos) |
+| **Repository** | [`pharmos`](https://github.com/hussein7samer/pharmos) |
 
 A deliberately framework-free, dependency-light architecture chosen for portability and low hosting overhead — backed by complete Notion and HTML planning documentation.
 
@@ -160,7 +160,7 @@ A gym management platform being migrated from a legacy PHP codebase to a modern,
 | **Performance** | Incremental SQL migrations · normalized relational schema |
 | **Security** | Structured auth · validated payment workflows |
 | **Impact** | Modernizing a live system with zero data loss |
-| **Repository** | [`aladdin`](https://github.com/your-username/aladdin) |
+| **Repository** | [`aladdin`](https://github.com/hussein7samer/aladdin) |
 
 A real-world legacy-to-modern migration handled with incremental, versioned database migrations and a staged rewrite that preserves data integrity throughout.
 
@@ -180,7 +180,7 @@ An Arabic-first platform unifying the daily toolkit of civil and structural engi
 | **Performance** | Modular service design built for multi-tenant scale |
 | **Security** | Tenant isolation · role-based project access |
 | **Impact** | Targeting a large, underserved Arabic engineering market |
-| **Repository** | [`engineering-platform`](https://github.com/your-username/engineering-platform) |
+| **Repository** | [`engineering-platform`](https://github.com/hussein7samer/engineering-platform) |
 
 A product-led initiative merging engineering calculators, an AI assistant, building-code reference, site diaries, project management, BOQ generation, and financial tracking into one Arabic-first workspace.
 
@@ -200,7 +200,7 @@ An enterprise database project showcasing relational design and database-level s
 | **Performance** | Indexed schema · set-based T-SQL logic |
 | **Security** | Dynamic Data Masking · RBAC · role-based access testing |
 | **Impact** | Demonstrates production database & security engineering |
-| **Repository** | [`library-management-sql`](https://github.com/your-username/library-management-sql) |
+| **Repository** | [`library-management-sql`](https://github.com/hussein7samer/library-management-sql) |
 
 Built and debugged live, this project implements Dynamic Data Masking, role-based access control, and the full stored-procedure/trigger/view layer expected of a hardened enterprise database.
 
@@ -220,7 +220,7 @@ An award-style personal portfolio with a scroll-synchronized video scrubbing her
 | **Performance** | RAF-based seek-locking for jitter-free scroll scrubbing |
 | **Security** | Static, dependency-audited build |
 | **Impact** | Premium personal brand & frontend showcase |
-| **Repository** | [`portfolio`](https://github.com/your-username/portfolio) |
+| **Repository** | [`portfolio`](https://github.com/hussein7samer/portfolio) |
 
 A high-craft frontend build: scroll position drives video playback forward and backward via a custom `useVideoScroll` hook, with GSAP ScrollTrigger and Lenis smooth scrolling tuned for a cinematic feel.
 
@@ -290,19 +290,19 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 <div align="center">
 
-<a href="https://leetcode.com/u/your-username">
+<a href="https://leetcode.com/u/hussein7samer">
   <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="42" />
 </a>
 &nbsp;
-<a href="https://www.geeksforgeeks.org/user/your-username">
+<a href="https://www.geeksforgeeks.org/user/hussein7samer">
   <img src="https://img.shields.io/badge/GeeksforGeeks-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="42" />
 </a>
 &nbsp;
-<a href="https://www.hackerrank.com/your-username">
+<a href="https://www.hackerrank.com/hussein7samer">
   <img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="42" />
 </a>
 &nbsp;
-<a href="https://www.codechef.com/users/your-username">
+<a href="https://www.codechef.com/users/hussein7samer">
   <img src="https://img.shields.io/badge/CodeChef-A855F7?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="42" />
 </a>
 
@@ -314,12 +314,12 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="175" src="https://github-readme-streak-stats.demolab.com/?user=your-username&hide_border=true&background=0D1117&stroke=7C3AED&ring=A855F7&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B8B8B&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=hussein7samer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-streak-stats.demolab.com/?user=hussein7samer&hide_border=true&background=0D1117&stroke=7C3AED&ring=A855F7&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B8B8B&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussein7samer&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -329,7 +329,7 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_title=false&custom_title=Last%207%20Days%20%C2%B7%20Tracked%20by%20WakaTime" alt="WakaTime Stats" width="62%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hussein7samer&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_title=false&custom_title=Last%207%20Days%20%C2%B7%20Tracked%20by%20WakaTime" alt="WakaTime Stats" width="62%" />
 
 </div>
 
@@ -339,7 +339,7 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=hussein7samer&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 
 </div>
 
@@ -349,7 +349,7 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A855F7&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussein7samer&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A855F7&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -359,7 +359,7 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/hussein7samer/hussein7samer/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
 </div>
 
@@ -401,7 +401,7 @@ open_to:
 <a href="https://www.linkedin.com/in/your-handle">
   <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/hussein7samer">
   <img src="https://img.shields.io/badge/GitHub-1F1147?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://your-portfolio.com">
