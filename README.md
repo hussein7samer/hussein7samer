@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,30:4338CA,60:7C3AED,100:A855F7&height=260&section=header&text=Hussein%20Samer&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20%26%20AI%20Engineer%20%C2%B7%20Founding%20Engineer%20%40%20STAX%20%C2%B7%20Cyber%20Security&descAlignY=54&descSize=18&descAlign=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,30:4338CA,60:7C3AED,100:A855F7&height=260&section=header&text=Hussein%20Samer&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20Founding%20Engineer%20at%20STAX&descAlignY=54&descSize=18&descAlign=50&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=60&lines=I+architect+and+ship+production+systems+end-to-end;React+%7C+Node.js+%7C+PostgreSQL+%7C+Prisma+%7C+TypeScript;Applied+Machine+Learning+%26+LLM-powered+products;Arabic-first+SaaS+engineered+for+the+MENA+market" alt="Typing SVG" />
@@ -320,6 +320,16 @@ Co-founder and engineering lead at a software studio building websites and custo
 <br/>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## Weekly Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_title=false&custom_title=Last%207%20Days%20%C2%B7%20Tracked%20by%20WakaTime" alt="WakaTime Stats" width="62%" />
 
 </div>
 
