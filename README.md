@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,30:4338CA,60:7C3AED,100:A855F7&height=260&section=header&text=Hussein%20Samer&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20Founding%20Engineer%20at%20STAX&descAlignY=54&descSize=18&descAlign=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,25:312E81,55:7C3AED,100:A855F7&height=280&section=header&text=Hussein%20Samer&fontSize=64&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20Founding%20Engineer%20at%20STAX&descAlignY=53&descSize=20&descAlign=50&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=60&lines=I+architect+and+ship+production+systems+end-to-end;React+%7C+Node.js+%7C+PostgreSQL+%7C+Prisma+%7C+TypeScript;Applied+Machine+Learning+%26+LLM-powered+products;Arabic-first+SaaS+engineered+for+the+MENA+market" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=60&lines=I+architect+and+ship+production+systems+end-to-end;React+%7C+Node.js+%7C+PostgreSQL+%7C+Prisma+%7C+TypeScript;Applied+Machine+Learning+and+LLM-powered+products;Arabic-first+SaaS+engineered+for+the+MENA+market" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Degree](https://img.shields.io/badge/B.Sc-Information%20Technology-7C3AED?style=flat-square&logo=academia&logoColor=white)
-![Specialization](https://img.shields.io/badge/Track-Cyber%20%26%20OS%20Security-4338CA?style=flat-square&logo=hackthebox&logoColor=white)
+![Specialization](https://img.shields.io/badge/Track-Cyber%20and%20OS%20Security-4338CA?style=flat-square&logo=hackthebox&logoColor=white)
 ![University](https://img.shields.io/badge/University-of%20Babylon-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-Iraq-A855F7?style=flat-square&logo=googlemaps&logoColor=white)
 
@@ -34,21 +34,23 @@
 <img src="https://img.shields.io/github/followers/hussein7samer?label=Followers&style=flat-square&color=4338CA&logo=github" alt="Followers" />
 <img src="https://img.shields.io/github/stars/hussein7samer?label=Stars&style=flat-square&color=A855F7&logo=github" alt="Stars" />
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
+
 </div>
 
----
-
-## About
+## &nbsp;About
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=hussein7samer&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" />
 
 Full-Stack & AI Engineer who builds **complete, production-grade systems** — not isolated features. I take products from the data model and API layer all the way to real-time interfaces and deployment, and I ship them into live use.
 
 ```text
-> Founding Engineer @ STAX — owning products end-to-end for real clients
-> Specialty:  Full-Stack engineering with an AI & product mindset
-> Domain:     POS · ERP · management platforms · Arabic-first SaaS
-> Focus:      clean architecture, scale, and financial-grade correctness
+> Founding Engineer @ STAX  —  owning products end-to-end for real clients
+> Specialty   :  Full-Stack engineering with an AI and product mindset
+> Domain      :  POS · ERP · management platforms · Arabic-first SaaS
+> Principle   :  clean architecture, scale, and financial-grade correctness
 ```
 
 - **Software Engineering** — clean architecture, RBAC, financial-precision data layers, and codebases built to scale.
@@ -57,13 +59,13 @@ Full-Stack & AI Engineer who builds **complete, production-grade systems** — n
 - **Database & Security** — relational design, T-SQL, RBAC, data masking, and an OS/Cyber Security foundation.
 - **Product Engineering** — Arabic-first, RTL-aware platforms purpose-built for the Iraqi and wider MENA market.
 
-**Open To** — Software Engineering · Full-Stack & Backend roles · AI/ML engineering · Open-source collaboration · Technical co-founding & freelance partnerships.
+**Open To** &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Full-Stack & Backend &nbsp;·&nbsp; AI/ML Engineering &nbsp;·&nbsp; Open-source &nbsp;·&nbsp; Technical co-founding
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Tech Stack
+## &nbsp;Tech Stack
 
 <div align="center">
 
@@ -85,9 +87,9 @@ Full-Stack & AI Engineer who builds **complete, production-grade systems** — n
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## AI / ML Expertise
+## &nbsp;AI / ML Expertise
 
 <div align="center">
 
@@ -102,12 +104,12 @@ Full-Stack & AI Engineer who builds **complete, production-grade systems** — n
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Featured Projects
+## &nbsp;Featured Projects
 
 <details>
-<summary><b>Nova Store — Full-Stack POS &amp; Inventory Platform</b></summary>
+<summary><b>&nbsp;Nova Store — Full-Stack POS &amp; Inventory Platform</b></summary>
 
 <br/>
 
@@ -127,7 +129,7 @@ Engineered end-to-end with a precision financial layer using `Decimal` types to 
 </details>
 
 <details>
-<summary><b>PharmOS — Pharmacy ERP System</b></summary>
+<summary><b>&nbsp;PharmOS — Pharmacy ERP System</b></summary>
 
 <br/>
 
@@ -147,7 +149,7 @@ A deliberately framework-free, dependency-light architecture chosen for portabil
 </details>
 
 <details>
-<summary><b>Aladdin — Gym Management System</b></summary>
+<summary><b>&nbsp;Aladdin — Gym Management System</b></summary>
 
 <br/>
 
@@ -167,7 +169,7 @@ A real-world legacy-to-modern migration handled with incremental, versioned data
 </details>
 
 <details>
-<summary><b>Engineering Platform — Arabic-First SaaS for Civil &amp; Structural Engineers</b></summary>
+<summary><b>&nbsp;Engineering Platform — Arabic-First SaaS for Civil &amp; Structural Engineers</b></summary>
 
 <br/>
 
@@ -187,7 +189,7 @@ A product-led initiative merging engineering calculators, an AI assistant, build
 </details>
 
 <details>
-<summary><b>Library Management System — MS SQL Server &amp; Security</b></summary>
+<summary><b>&nbsp;Library Management System — MS SQL Server &amp; Security</b></summary>
 
 <br/>
 
@@ -207,7 +209,7 @@ Built and debugged live, this project implements Dynamic Data Masking, role-base
 </details>
 
 <details>
-<summary><b>Cinematic Portfolio — Scroll-Bound Motion Engineering</b></summary>
+<summary><b>&nbsp;Cinematic Portfolio — Scroll-Bound Motion Engineering</b></summary>
 
 <br/>
 
@@ -226,9 +228,9 @@ A high-craft frontend build: scroll position drives video playback forward and b
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Experience
+## &nbsp;Experience
 
 ### Founding Engineer · Full-Stack Developer
 **STAX (ستاكس)** &nbsp;·&nbsp; *2023 — Present*
@@ -242,9 +244,9 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 `React` `Node.js` `Express` `PostgreSQL` `Prisma` `MySQL` `PHP` `Tailwind` `Socket.io` `System Architecture` `RBAC`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Achievements
+## &nbsp;Achievements
 
 <div align="center">
 
@@ -259,9 +261,9 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Certifications
+## &nbsp;Certifications
 
 <div align="center">
 
@@ -276,7 +278,7 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 **NPTEL**
 
-![NPTEL DSA](https://img.shields.io/badge/NPTEL-Programming%20%26%20DSA-2C3E94?style=for-the-badge&logo=google-scholar&logoColor=white)
+![NPTEL DSA](https://img.shields.io/badge/NPTEL-Programming%20and%20DSA-2C3E94?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 **Cisco**
 
@@ -284,9 +286,9 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Coding Profiles
+## &nbsp;Coding Profiles
 
 <div align="center">
 
@@ -308,9 +310,9 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## GitHub Analytics
+## &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -323,29 +325,29 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Weekly Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hussein7samer&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_title=false&custom_title=Last%207%20Days%20%C2%B7%20Tracked%20by%20WakaTime" alt="WakaTime Stats" width="62%" />
-
-</div>
-
----
-
-## GitHub Trophies
+## &nbsp;Weekly Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hussein7samer&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hussein7samer&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&custom_title=Last%207%20Days%20Tracked%20by%20WakaTime" alt="WakaTime Stats" width="62%" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Contribution Activity
+## &nbsp;GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hussein7samer&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
+
+## &nbsp;Contribution Activity
 
 <div align="center">
 
@@ -353,9 +355,9 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Contribution Snake
+## &nbsp;Contribution Snake
 
 <div align="center">
 
@@ -363,9 +365,9 @@ Co-founder and engineering lead at a software studio building websites and custo
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Current Focus
+## &nbsp;Current Focus
 
 ```yaml
 learning:
@@ -389,9 +391,9 @@ open_to:
   - Open-source collaboration & technical partnerships
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,50:7C3AED,100:A855F7&height=3" width="100%" />
 
-## Connect
+## &nbsp;Connect
 
 <div align="center">
 
@@ -410,12 +412,13 @@ open_to:
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 *"Engineering isn't about writing code — it's about shipping systems that endure."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,40:7C3AED,100:312E81&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,45:7C3AED,100:1E1B4B&height=150&section=footer" width="100%" />
 
 </div>
+
